@@ -1,21 +1,6 @@
-# sinriportfolio v2
+# WebGL with Three.js 
 
-### env
 ```
-yarn -v : 1.22.19
-```
-
-### IDE Extensions
-```
-Better Comments
-Imoprt Cost
-Prettier - Code formatter
-```
-### ready
-```
-yarn install
-```
-### CRA
-```
-yarn create-react-app ... --template typescript
+tutorial, test
+cra, react, typescript, scss
 ```
