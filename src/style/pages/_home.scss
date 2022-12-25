@@ -1,3 +1,23 @@
 .home {
   position: relative;
+
+  h1 {
+    position: absolute;
+    top: 0;
+    color: white;
+  }
+}
+
+.main-aside {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 200px;
+  background-color: white;
+  left: -200px;
+}
+
+.canvas-container {
+  width: 100vw;
+  height: 100vh;
 }
