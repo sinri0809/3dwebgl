@@ -7,8 +7,11 @@
 @import './components/layout/header';
 
 @import './pages/home';
+@import './pages/splinetest';
 
 .App {
   position: relative;
+  height: 100vh;
+  overflow: hidden;
   // margin-top: $header_height;
 }
