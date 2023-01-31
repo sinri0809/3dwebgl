@@ -1,5 +1,7 @@
 # WebGL with Three.js 
 
+node : over 14.17.0
+
 ```
 tutorial, test
 cra, react, typescript, scss
